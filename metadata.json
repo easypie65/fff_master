@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Quadratic Function Converter",
+  "description": "An interactive web application to practice converting quadratic functions from general form (y = ax² + bx + c) to standard form (y = a(x - p)² + q) through a step-by-step guided process.",
+  "requestFramePermissions": []
+}
